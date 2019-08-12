@@ -1,7 +1,7 @@
 # Python - BlackJack.py File - 11 August 2019
 # Author - John Ryan Prescott - johnryanprescott@gmail.com
 
-# Text based black jack game with betting. Currently no double or split functionality
+# Text based black jack game with betting. Currently no split functionality
 
 import PlayingCards
 import People
@@ -174,4 +174,3 @@ def deal_cards(num_cards, deck, player):
 
 if __name__ == "__main__":
     start_game()
-
